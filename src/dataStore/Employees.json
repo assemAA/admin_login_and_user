@@ -1,0 +1,6 @@
+[ { "id" : 1 , "name" : "John Edward" , "age" : 35 ,"salary" : 5000 , "department" : "php"} ,
+    {"id" : 2 , "name" : "Tonny Blacket" , "age" : 17 ,"salary" : 2000 , "department" : "asp"} ,
+    {"id" : 3 , "name" : "Havvy Sims" , "age" : 22 ,"salary" : 7000 , "department" : "express"} ,
+    {"id" : 4 , "name" : "Barry Sterlling" , "age" : 41 ,"salary" : 20000 , "department" : "djanjo"} ,
+    {"id" :5 , "name" : "lary Bee" , "age" : 30 ,"salary" : 15000 , "department" : "spring"} 
+    ]
